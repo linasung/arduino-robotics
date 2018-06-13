@@ -1,0 +1,7 @@
+﻿Lina Sung
+
+
+Arduino Final Robot Proposal:
+
+
+I will be creating a robot named Yandere-bot. It wander wander around the room, and using a digital range finder, if it detects something within about 5-7inches in front of it, it will use a servo with a “knife” attached to it and swing at whatever is in front of it. If it is an object that can be knocked down, Yandere-bot will continue forward after “killing it”, if whatever it detects is a wall or stationary object that cannot be moved, it will back up, rotate away, and continue forward.
